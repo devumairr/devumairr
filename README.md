@@ -26,4 +26,7 @@ Greetings! With six years of dedicated experience as a Senior Frontend Developer
 
 ### - Development
 
+- [tCheck](https://tcheck.me/)
+  <p>tCheck.me brings accessible potency testing to the forefront of the cannabis industry. With portable handheld devices like tCheck 2, users can now accurately measure potency at home, revolutionizing how cannabis is understood and consumed. Based in Roseville, CA, tCheck is committed to education and empowerment, leading the charge towards legalization and destigmatization worldwide. Join us in shaping the future of cannabis with clarity and confidence.</p>
+
 
