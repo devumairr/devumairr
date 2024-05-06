@@ -1,6 +1,6 @@
 ### Umair
 
-## Sr. Frontend Developer
+## Sr. Frontend Developer 
 
 Greetings! With six years of dedicated experience as a Senior Frontend Developer, I've honed my skills in crafting intuitive and visually captivating user interfaces. My journey in web development has equipped me with a deep understanding of frontend technologies and methodologies. From responsive designs to cutting-edge frameworks, I am committed to delivering seamless and impactful digital experiences. Let's collaborate and bring your ideas to life!
 
